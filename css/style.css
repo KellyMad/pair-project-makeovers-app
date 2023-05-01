@@ -2233,3 +2233,21 @@ a:focus {
         text-align: center;
     }
 }
+
+.naruto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.naruto1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.naruto2 {
+    color: orange;
+}
