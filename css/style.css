@@ -1180,7 +1180,7 @@ a:focus {
     margin-top: 37px;
     width: 100%;
     height: auto;
-    border-radius: 100px;
+    border-radius: 50%;
 }
 
 .testimonial .testimonial-slider {
