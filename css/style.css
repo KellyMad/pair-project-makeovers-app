@@ -1180,7 +1180,7 @@ a:focus {
     margin-top: 37px;
     width: 100%;
     height: auto;
-    border-radius: 100px;
+    border-radius: 50%;
 }
 
 .testimonial .testimonial-slider {
@@ -2232,4 +2232,22 @@ a:focus {
         margin: 5px 0;
         text-align: center;
     }
+}
+
+.naruto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.naruto1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.naruto2 {
+    color: orange;
 }
